@@ -1,7 +1,7 @@
 <resources>
     <style
         name="LayoutEditorTheme"
-        parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+         parent="@style/Theme.MaterialComponents.Light.NoActionBar">
     </style>
     <style
         name="ItemToolbar.TitleText"
